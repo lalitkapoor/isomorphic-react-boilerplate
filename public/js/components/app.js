@@ -4,7 +4,7 @@ import Router from 'react-router'
 let RouteHandler = Router.RouteHandler
 
 export default React.createClass({
-    displayName: 'Test'
+    displayName: 'App'
   , render: function () {
       // http://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests
       return (

@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default React.createClass({
-    displayName: 'Test'
+    displayName: 'TestButton'
 
   , count: 0
   , getInitialState: function() {

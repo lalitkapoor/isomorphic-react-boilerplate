@@ -4,7 +4,7 @@ import {Link} from 'react-router'
 import TestButton from './test-button'
 
 export default React.createClass({
-    displayName: 'Test'
+    displayName: 'Home'
   , render: function () {
       return (
         <div>
